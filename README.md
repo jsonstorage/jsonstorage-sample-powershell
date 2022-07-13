@@ -1,4 +1,4 @@
-# jsonstorage-sample-powershell
+# jsonstorage-samples-powershell
 
 ## Create JSON:
 
